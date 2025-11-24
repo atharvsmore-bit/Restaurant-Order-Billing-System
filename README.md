@@ -77,13 +77,13 @@ If all of the above tests produce correct results, the project is functioning pr
 
 ## 🔹 Screenshots of Program Output
  - Screenshot 1: Adding Items to Menu
-   ![alt text](<d:/Atharv/project/Screenshot 2025-11-24 171945.png>)
+   <img width="438" height="501" alt="Screenshot 2025-11-24 171945" src="https://github.com/user-attachments/assets/dbc24c15-72d8-4458-a567-4da34c2ec290" />
  - Screenshot 2: Show Items of Menu
-   ![alt text](<d:/Atharv/project/Screenshot 2025-11-24 173523.png>)
+   <img width="395" height="235" alt="Screenshot 2025-11-24 173523" src="https://github.com/user-attachments/assets/7c7a4614-a470-40e2-8999-a322c94bbf40" />
  - Screenshot 3: Order Placement
-   ![alt text](<d:/Atharv/project/Screenshot 2025-11-24 174008.png>)
+   <img width="460" height="319" alt="Screenshot 2025-11-24 174008" src="https://github.com/user-attachments/assets/18c4fcbf-62fb-450b-b288-9ae11341dfc4" />
  - Screenshot 4: Final Generated Bill
-   ![alt text](<d:/Atharv/project/Screenshot 2025-11-24 180916.png>)
+   <img width="462" height="327" alt="Screenshot 2025-11-24 180916" src="https://github.com/user-attachments/assets/e7698e37-45f7-4149-97b1-a852d5f220c4" />
 
  ---  
 
@@ -91,4 +91,5 @@ If all of the above tests produce correct results, the project is functioning pr
 
 
   
+
 
