@@ -52,21 +52,27 @@ It allows the user to add menu items, place orders, and view an instant total re
  ---
 
 ## 🔹 Instructions for Testing
-Follow the step-by-step tests to verify that the billing system works correctly:
 
-     Test Step	               |            Expected Result
- Add menu item	               |     Item appears in menu list correctly
- Show menu	                   |     All items display with price
- Place order	               |     Selected item & quantity added to order
- Apply discount %	           |     Bill amount reduces based on entered discount
- Generate bill	               |     Displays subtotal, GST, discount & final payable total
- Order multiple items	       |     Bill shows each item with total price
+Follow the steps below to verify that the Restaurant Order Billing System works correctly:
 
-Additional testing recommendations
- - Try 0% discount
- - Try 10% / 20% / 50% discount
- - Try ordering the same item multiple times
- - Try large quantity values
-If all cases show expected results → the project works correctly.
+| Test Step | Expected Output |
+|----------|-----------------|
+| Add menu item | Item should appear in the menu list with correct price |
+| Show menu | All added items should display properly |
+| Place order | Selected item and quantity should be added to the order list |
+| Enter discount percentage | Bill total should reduce according to the discount applied |
+| Generate bill | Subtotal, GST (5%), discount, and final payable total should be displayed |
+| Order multiple items | Bill should include individual line totals for each item |
+
+### Additional recommended tests
+- Try **0% discount** — total should remain unchanged
+- Try **10% / 20% / 50% discount** — total should reduce accordingly
+- Try **ordering the same item multiple times**
+- Try **large quantities** (e.g., 10 or more)
+- Try generating the bill **only after placing an order** (system should warn if nothing is ordered)
+
+If all of the above tests produce correct results, the project is functioning properly.
+
 
 ---
+
