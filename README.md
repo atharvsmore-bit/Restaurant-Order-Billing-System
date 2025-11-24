@@ -84,17 +84,17 @@ If all of the above tests produce correct results, the project is functioning pr
  
  -  Screenshot 3: Order Placement
    <img width="460" height="319" alt="Screenshot 2025-11-24 174008" src="https://github.com/user-attachments/assets/18c4fcbf-62fb-450b-b288-9ae11341dfc4" />
- 
- - - Screenshot 4: Final Generated Bill
+
+ - Screenshot 4: Final Generated Bill
    <img width="462" height="327" alt="Screenshot 2025-11-24 180916" src="https://github.com/user-attachments/assets/e7698e37-45f7-4149-97b1-a852d5f220c4" />
  
-  
  ---  
 
 
 
 
   
+
 
 
 
